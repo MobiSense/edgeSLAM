@@ -1,0 +1,10 @@
+%YAML:1.0
+
+Client.Addr: "192.168.1.2"
+Server.Addr: "192.168.1.8"
+
+Server.LoopClosingPort: 8000
+Server.OptimizerPort: 8001
+Server.GlobalPort: 8002
+Server.LocalMappingPort: 8003
+Client.TrackingPort: 8004
